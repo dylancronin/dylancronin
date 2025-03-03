@@ -22,10 +22,10 @@ I am a microbiologist and bioinformatician, currently a **Postdoctoral Researche
 4. **McGivern BB, Cronin DR** et al. (2024). *Microbial polyphenol metabolism in permafrost carbon cycle.* [Nature Microbiology](https://doi.org/10.1038/s41564-024-01691-0)
 5. **Freire-Zapata V, Cronin DR** et al. (2024). *Microbiome–metabolite linkages drive greenhouse gas dynamics.* [Nature Microbiology](https://doi.org/10.1038/s41564-024-01800-z)
 
-[View all publications](https://scholar.google.com/)
+[View all publications](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AOv-ny9t5_iXdRImdcxis1ltilEEQ46IKqAqQthDyoxyExjlv7EmlJNreJtlsHGnJVCyWX4HMIP75ahQqfKW9Q&user=pC5nbvEAAAAJ)
 
 ## 🔗 Connect with Me
-- 🏛 [Google Scholar](https://scholar.google.com/)
+- 🏛 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AOv-ny9t5_iXdRImdcxis1ltilEEQ46IKqAqQthDyoxyExjlv7EmlJNreJtlsHGnJVCyWX4HMIP75ahQqfKW9Q&user=pC5nbvEAAAAJ)
 - 🐦 [BlueSky](https://bsky.app/profile/drcronin.bsky.social)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dylan-cronin-a455337b/)
 - 📧 Email: cronin.dylan.r@gmail.com
