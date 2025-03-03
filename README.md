@@ -15,7 +15,7 @@ I am a microbiologist and bioinformatician, currently a **Postdoctoral Researche
 - Viral ecology
 - Bioinformatics tool development
 
-## 📄 Some Recent Publications
+## 📄 Recent Publications
 1. **Cronin DR** et al. (2025). *Stable states in an unstable landscape: microbial resistance at the front line of climate change.* [bioRxiv](https://doi.org/10.1101/2025.02.07.636677)
 2. **Varner RK, Cronin DR** et al. (2025). *From Archaea to the atmosphere: remotely sensing Arctic methane.* [bioRxiv](https://doi.org/10.1101/2025.02.13.638097)
 3. **Cronin D** et al. (2024). *Impact of storage and extraction methods on peat soil microbiomes.* [PeerJ](https://doi.org/10.7717/peerj.18745)
