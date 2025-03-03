@@ -1,4 +1,5 @@
 # Dylan R. Cronin
+### 📧 **Email**: cronin.dylan.r@gmail.com
 
 ## 📍 About Me
 I am a microbiologist and bioinformatician, currently a **Postdoctoral Researcher at Case Western Reserve University**. My research focuses on microbial community interactions, long-read metagenomics, and multi-omics approaches to understanding microbial ecosystems.
@@ -7,7 +8,6 @@ I am a microbiologist and bioinformatician, currently a **Postdoctoral Researche
 - 🎓 **Ph.D. in Microbiology**, The Ohio State University
 - 🎓 **B.S. in Computer Science**, Bowling Green State University
 - 🎓 **B.S. in Biology with a specialization in Marine and Aquatic Biology**, Bowling Green State University
-- 📧 **Email**: cronin.dylan.r@gmail.com
 
 ## 🔬 Research Interests
 - Microbial genomics & metagenomics
