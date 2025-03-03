@@ -26,6 +26,6 @@ I am a microbiologist and bioinformatician, currently a **Postdoctoral Researche
 
 ## 🔗 Connect with Me
 - 🏛 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AOv-ny9t5_iXdRImdcxis1ltilEEQ46IKqAqQthDyoxyExjlv7EmlJNreJtlsHGnJVCyWX4HMIP75ahQqfKW9Q&user=pC5nbvEAAAAJ)
-- 🐦 [BlueSky](https://bsky.app/profile/drcronin.bsky.social)
+- 🦋 [BlueSky](https://bsky.app/profile/drcronin.bsky.social)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dylan-cronin-a455337b/)
 - 📧 Email: cronin.dylan.r@gmail.com
