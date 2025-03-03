@@ -1,16 +1,31 @@
-## Hi there 👋
+# Dylan R. Cronin
 
-<!--
-**dylancronin/dylancronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📍 About Me
+I am a microbiologist and bioinformatician, currently a **Postdoctoral Researcher at Case Western Reserve University**. My research focuses on microbial community interactions, long-read metagenomics, and multi-omics approaches to understanding microbial ecosystems.
 
-Here are some ideas to get you started:
+- 🏛 **Current Position**: Postdoctoral Researcher in Microbiology, Case Western Reserve University (Jan 2025 – Present)
+- 🎓 **Ph.D. in Microbiology**, The Ohio State University
+- 🎓 **B.S. in Computer Science & Biology**, Bowling Green State University
+- 🎓 **B.S. in Biology with a specialization in Marine and Aquatic Biology**, Bowling Green State University
+- 📧 **Email**: cronin.dylan.r@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+- Microbial genomics & metagenomics
+- Climate change & microbial community responses
+- Viral ecology
+- Bioinformatics tool development
+
+## 📄 Some Recent Publications
+1. **Cronin DR** et al. (2025). *Stable states in an unstable landscape: microbial resistance at the front line of climate change.* [bioRxiv](https://doi.org/10.1101/2025.02.07.636677)
+2. **Varner RK, Cronin DR** et al. (2025). *From Archaea to the atmosphere: remotely sensing Arctic methane.* [bioRxiv](https://doi.org/10.1101/2025.02.13.638097)
+3. **Cronin D** et al. (2024). *Impact of storage and extraction methods on peat soil microbiomes.* [PeerJ](https://doi.org/10.7717/peerj.18745)
+4. **McGivern BB, Cronin DR** et al. (2024). *Microbial polyphenol metabolism in permafrost carbon cycle.* [Nature Microbiology](https://doi.org/10.1038/s41564-024-01691-0)
+5. **Freire-Zapata V, Cronin DR** et al. (2024). *Microbiome–metabolite linkages drive greenhouse gas dynamics.* [Nature Microbiology](https://doi.org/10.1038/s41564-024-01800-z)
+
+[View all publications](https://scholar.google.com/)
+
+## 🔗 Connect with Me
+- 🏛 [Google Scholar](https://scholar.google.com/)
+- 🐦 [BlueSky](https://bsky.app/profile/drcronin.bsky.social)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dylan-cronin-a455337b/)
+- 📧 Email: cronin.dylan.r@gmail.com
