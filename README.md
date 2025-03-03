@@ -5,7 +5,7 @@ I am a microbiologist and bioinformatician, currently a **Postdoctoral Researche
 
 - 🏛 **Current Position**: Postdoctoral Researcher in Microbiology, Case Western Reserve University (Jan 2025 – Present)
 - 🎓 **Ph.D. in Microbiology**, The Ohio State University
-- 🎓 **B.S. in Computer Science & Biology**, Bowling Green State University
+- 🎓 **B.S. in Computer Science**, Bowling Green State University
 - 🎓 **B.S. in Biology with a specialization in Marine and Aquatic Biology**, Bowling Green State University
 - 📧 **Email**: cronin.dylan.r@gmail.com
 
