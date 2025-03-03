@@ -12,7 +12,7 @@ I am a microbiologist and bioinformatician, currently a **Postdoctoral Researche
 ## 🔬 Research Interests
 - Microbial genomics & metagenomics
 - Climate change & microbial community responses
-- Viral ecology
+- Microbial & viral ecology
 - Bioinformatics tool development
 
 ## 📄 Recent Publications
