@@ -4,10 +4,10 @@
 ## About Me
 I am a microbiologist and bioinformatician, currently a **Postdoctoral Researcher at Case Western Reserve University**. My research focuses on microbial community interactions, long-read metagenomics, and multi-omics approaches to understanding microbial ecosystems.
 
-- 🏛 **Current Position**: Postdoctoral Researcher in Microbiology, Case Western Reserve University (Jan 2025 – Present)
-- 🎓 **Ph.D. in Microbiology**, The Ohio State University
-- 🎓 **B.S. in Computer Science**, Bowling Green State University
-- 🎓 **B.S. in Biology with a specialization in Marine and Aquatic Biology**, Bowling Green State University
+- **Current Position**: Postdoctoral Researcher in Microbiology, Case Western Reserve University (Jan 2025 – Present)
+- **Ph.D. in Microbiology**, The Ohio State University
+- **B.S. in Computer Science**, Bowling Green State University
+- **B.S. in Biology with a specialization in Marine and Aquatic Biology**, Bowling Green State University
 
 ## Research Interests
 - Microbial genomics & metagenomics
